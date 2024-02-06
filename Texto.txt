@@ -1,0 +1,2 @@
+Un texto
+Texto previo al Commit
